@@ -1,6 +1,4 @@
 ipywidgets==8.1.5
-opencv-python==4.10.0.84
-mayavi==4.8.2
 numpy==1.26.4
 numpy_stl==3.1.2
 pyvista==0.44.1
