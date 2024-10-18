@@ -1,3 +1,4 @@
 libgl1
 libgl-dev
-
+libxrender1
+libxrender-dev
