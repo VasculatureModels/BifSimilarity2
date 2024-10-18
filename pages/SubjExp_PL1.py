@@ -1,7 +1,7 @@
 import streamlit as st
 import pyvista as pv
-#from stpyvista import stpyvista
-from stpyvista.trame_backend import stpyvista
+from stpyvista import stpyvista
+#from stpyvista.trame_backend import stpyvista
 import mimetypes
 import numpy as np
 import random
